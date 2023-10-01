@@ -8,3 +8,5 @@ A small game made with a couple of friends as a group using the free version of 
 - Enjoy!
 
 # Clever Engineering
+------
+# Construct 3 only allows 50 conditional statements in the free version. This means that in order to make a game (especially an RPG) you need to be clever with how you assign. Here are some of my favorite workarounds I found. 
